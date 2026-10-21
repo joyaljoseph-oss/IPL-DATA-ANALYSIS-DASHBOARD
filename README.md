@@ -57,10 +57,5 @@ https://github.com/joyaljoseph-oss/IPL-DATA-ANALYSIS-DASHBOARD/blob/main/Snapsho
 
 **Joyal Joseph**
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python# 🏏 IPL Analytics Dashboard
+Aspiring Data Analyst | Power BI | SQL | Excel | Python |
 
-## 👨‍💻 Author
-
-**Joyal Joseph**
-
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
