@@ -1,6 +1,6 @@
 # 🏏 IPL Analytics Dashboard
 
-## 1. Project Title /
+## 1. Project Title 
 
 **🏏 IPL Analytics: Interactive Cricket Performance Dashboard**
 
@@ -51,8 +51,7 @@ The goal is to convert IPL data into clear and interactive visualizations that m
 - **Data Storytelling:** Presents cricket statistics in a visually engaging and understandable format.
 
 ## 6. Screenshots 
-
-
+https://github.com/joyaljoseph-oss/IPL-DATA-ANALYSIS-DASHBOARD/blob/main/Snapshot%20of%20IPL%20dasboard.png.png
 
 ## 👨‍💻 Author
 
